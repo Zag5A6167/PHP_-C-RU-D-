@@ -34,10 +34,12 @@ The `Name` table has the following columns:
 
 * Add new names using the `add.php` page.
 * View all names in the `index.php` page.
-* Delete names using the delete button on the `index.php` page.
+* Delete names using the delete button on the `index.php` page. <br>
 
 
-![image](https://github.com/user-attachments/assets/0a652943-a3ca-44b2-8714-a2f1aa7c56d2)
+![image](https://github.com/user-attachments/assets/891e647e-de41-453f-a4d5-30b908106963)
+
+###########################################################################################
 ![image](https://github.com/user-attachments/assets/9d560d3e-446c-47b5-b0ea-cfbac8967c60)
 
 
