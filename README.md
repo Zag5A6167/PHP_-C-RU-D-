@@ -24,7 +24,7 @@ The `Name` table has the following columns:
 
 ## Installation
 
-1.  Clone the repository: `git clone <your_repository_url>`
+1.  Clone the repository: `git clone https://github.com/Zag5A6167/PHP_CRUD_BUT_C_D
 2.  Create a database named `Information` in your MySQL server.
 3.  Create a table named `Name` with the structure described above.
 4.  Create a `db_connect.php` file based on the `db_connect.example.php` template and fill in your database credentials.
