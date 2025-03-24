@@ -1,6 +1,10 @@
+![image](https://github.com/user-attachments/assets/0a652943-a3ca-44b2-8714-a2f1aa7c56d2)
+![image](https://github.com/user-attachments/assets/9d560d3e-446c-47b5-b0ea-cfbac8967c60)
+
+
 # My Project
 
-simple web application, uses a database to store.
+simple web CRUD but C and D , uses a database to store
 
 ## Technologies Used
 
