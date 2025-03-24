@@ -37,9 +37,12 @@ The `Name` table has the following columns:
 * Delete names using the delete button on the `index.php` page. <br>
 
 
+
+Only 5 persons can be added.
 ![image](https://github.com/user-attachments/assets/891e647e-de41-453f-a4d5-30b908106963)
 
 ###########################################################################################
+No more can be added
 ![image](https://github.com/user-attachments/assets/9d560d3e-446c-47b5-b0ea-cfbac8967c60)
 
 
